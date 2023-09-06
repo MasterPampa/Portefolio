@@ -1,0 +1,89 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: #F7F7F7;
+  font-family: "Rubik";
+}
+
+body {
+  background-color: #1D1D20;
+}
+
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.container .top_corner {
+  position: absolute;
+  border-top: 4px solid;
+  border-left: 4px solid;
+  border-color: #FF6A41;
+  width: 30%;
+  height: 350px;
+  top: 50%;
+  left: 50%;
+  z-index: -1;
+  transition: all 0.2s ease-in;
+  animation: forwards 1s openingTop;
+}
+.container .bottom_corner {
+  position: absolute;
+  border-bottom: 4px solid;
+  border-right: 4px solid;
+  border-color: #FF6A41;
+  width: 30%;
+  height: 350px;
+  bottom: 50%;
+  right: 50%;
+  z-index: -1;
+  transition: all 0.2s ease-in;
+  animation: forwards 1s openingBottom;
+}
+
+.main_container {
+  width: 70%;
+  margin-top: 100px;
+  padding-top: 50px;
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 100px;
+  justify-content: space-between;
+}
+
+@keyframes openingTop {
+  from {
+    top: 50%;
+    left: 50%;
+    width: 1%;
+    height: 1px;
+    border-color: #F7F7F7;
+  }
+  to {
+    top: 10%;
+    left: 10%;
+    width: 30%;
+    height: 350px;
+    border-color: #FF6A41;
+  }
+}
+@keyframes openingBottom {
+  from {
+    bottom: 50%;
+    right: 50%;
+    width: 1%;
+    height: 1px;
+    border-color: #F7F7F7;
+  }
+  to {
+    bottom: 10%;
+    right: 10%;
+    width: 30%;
+    height: 350px;
+    border-color: #FF6A41;
+  }
+}/*# sourceMappingURL=index.css.map */
