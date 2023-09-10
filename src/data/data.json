@@ -3,7 +3,7 @@
         {
             "id": 1,
             "title": "Welcome",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed elit erat, ultricies sed purus eget, vulputate consequat neque. Curabitur sit amet tellus lectus. Vivamus vel semper ex, a congue lectus. ",
+            "description": "En tant que développeur front-end junior, je suis animé par la passion de créer des expériences web captivantes et intuitives. Récemment diplômé de la formation Intégrateur Web d'OpenClassrooms, j'ai acquis une solide base de compétences en HTML, CSS et JavaScript, et je suis désireux de mettre en pratique mes connaissances fraîchement acquises. Mon portfolio est le reflet de mon parcours, mettant en lumière les projets sur lesquels j'ai travaillé avec dévouement et créativité. ",
             "img": "/welcome.jpg",
             "link": ""
         },

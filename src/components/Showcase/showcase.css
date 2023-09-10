@@ -13,7 +13,7 @@
 }
 .showcase p {
   margin-top: 20px;
-  font-size: 2vw;
+  font-size: 1.3vw;
 }
 
 @keyframes opening {
@@ -27,12 +27,12 @@
 @media (max-width: 980px) {
   .showcase {
     order: 1;
-    width: 70%;
+    width: 80%;
   }
   .showcase h1 {
     font-size: 4.5vw;
   }
   .showcase p {
-    font-size: 2.5vw;
+    font-size: 2.2vw;
   }
 }/*# sourceMappingURL=showcase.css.map */
