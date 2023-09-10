@@ -10,36 +10,10 @@ body {
 }
 
 .container {
-  height: 100vh;
+  height: 90vh;
   width: 100%;
   display: flex;
   justify-content: center;
-}
-.container .top_corner {
-  position: absolute;
-  border-top: 4px solid;
-  border-left: 4px solid;
-  border-color: #FF6A41;
-  width: 30%;
-  height: 350px;
-  top: 50%;
-  left: 50%;
-  z-index: -1;
-  transition: all 0.2s ease-in;
-  animation: forwards 1s openingTop;
-}
-.container .bottom_corner {
-  position: absolute;
-  border-bottom: 4px solid;
-  border-right: 4px solid;
-  border-color: #FF6A41;
-  width: 30%;
-  height: 350px;
-  bottom: 50%;
-  right: 50%;
-  z-index: -1;
-  transition: all 0.2s ease-in;
-  animation: forwards 1s openingBottom;
 }
 
 .main_container {
@@ -58,42 +32,10 @@ main {
   justify-content: space-between;
 }
 
-@keyframes openingTop {
-  from {
-    top: 50%;
-    left: 50%;
-    width: 1%;
-    height: 1px;
-    border-color: #F7F7F7;
-  }
-  to {
-    top: 10%;
-    left: 10%;
-    width: 30%;
-    height: 350px;
-    border-color: #FF6A41;
-  }
-}
-@keyframes openingBottom {
-  from {
-    bottom: 50%;
-    right: 50%;
-    width: 1%;
-    height: 1px;
-    border-color: #F7F7F7;
-  }
-  to {
-    bottom: 10%;
-    right: 10%;
-    width: 30%;
-    height: 350px;
-    border-color: #FF6A41;
-  }
-}
 @media (max-width: 980px) {
   .main_container {
     height: auto;
-    margin-top: 100px;
+    margin-top: 20%;
     padding: 0;
     display: flex;
     flex-direction: column;

@@ -58,4 +58,10 @@ i {
     flex-direction: row;
     justify-content: space-evenly;
   }
+  .right {
+    rotate: -90deg;
+  }
+  .left {
+    rotate: -90deg;
+  }
 }/*# sourceMappingURL=selector.css.map */

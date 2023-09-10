@@ -6,7 +6,7 @@ function Selector({ slide, setSlide, nextSlide, previousSlide }) {
   return (
     <aside className='selector'>
       <div className='selector__arrow'>
-        <i className="fa-solid fa-angle-up fa-2xl" onClick={previousSlide}></i>
+        <i className="fa-solid fa-angle-up fa-2xl left" onClick={previousSlide}></i>
       </div>
       <div className='selector__dot'>
         {previewData.map((item, index) => (
@@ -18,7 +18,7 @@ function Selector({ slide, setSlide, nextSlide, previousSlide }) {
         ))}
       </div>
       <div className='selector__arrow'>
-        <i className="fa-solid fa-angle-down fa-2xl" onClick={nextSlide}></i>
+        <i className="fa-solid fa-angle-down fa-2xl right" onClick={nextSlide}></i>
       </div>
     </aside>
   );
