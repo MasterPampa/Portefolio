@@ -1,0 +1,38 @@
+
+    [
+        {
+            "id": 1,
+            "title": "Welcome",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed elit erat, ultricies sed purus eget, vulputate consequat neque. Curabitur sit amet tellus lectus. Vivamus vel semper ex, a congue lectus. ",
+            "img": "/welcome.jpg",
+            "link": ""
+        },
+        {
+            "id": 2,
+            "title": "Booki",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed elit erat, ultricies sed purus eget, vulputate consequat neque. Curabitur sit amet tellus lectus. Vivamus vel semper ex, a congue lectus. ",
+            "img": "/images/Booki.png",
+            "link": ""
+        },
+        {
+            "id": 3,
+            "title": "Kasa",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed elit erat, ultricies sed purus eget, vulputate consequat neque. Curabitur sit amet tellus lectus. Vivamus vel semper ex, a congue lectus. ",
+            "img": "/images/Kasa.png",
+            "link": ""
+        },
+        {
+            "id": 4,
+            "title": "Argent Bank",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed elit erat, ultricies sed purus eget, vulputate consequat neque. Curabitur sit amet tellus lectus. Vivamus vel semper ex, a congue lectus. ",
+            "img": "/images/ArgentBank.png",
+            "link": ""
+        },
+        {
+            "id": 5,
+            "title": "77 Events",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed elit erat, ultricies sed purus eget, vulputate consequat neque. Curabitur sit amet tellus lectus. Vivamus vel semper ex, a congue lectus. ",
+            "img": "/images/77Events.png",
+            "link": ""
+        }
+    ]

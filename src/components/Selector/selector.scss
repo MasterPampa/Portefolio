@@ -7,7 +7,9 @@
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    
+    margin-right: 10px;
+    order: 1;
+
     &__arrow, i{
         cursor: pointer;
     }
@@ -40,4 +42,24 @@
 
 i{
     transition: all 0.2s ease-out;
+}
+
+@media(max-width: 980px) {
+   .selector{
+    height: auto;
+    width: 50%;
+    margin-right: 50px;
+    order: 3;
+    flex-direction: row;
+    margin-right: 0;
+    font-size: 15px;
+
+    &__dot{
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        
+    }
+   }
 }

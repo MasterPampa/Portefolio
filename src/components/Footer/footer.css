@@ -41,4 +41,10 @@ h3:hover {
 h3:hover::before {
   transform-origin: left;
   transform: scaleX(1);
+}
+
+@media (max-width: 980px) {
+  footer {
+    margin-top: 30px;
+  }
 }/*# sourceMappingURL=footer.css.map */

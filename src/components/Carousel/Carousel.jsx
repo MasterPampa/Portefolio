@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import Selector from '../Selector/Selector';
 import Showcase from '../Showcase/Showcase';
 import Preview from '../Preview/Preview';
-import { previewData } from '../../data/data';
+import previewData from '../../data/data.json';
 
 function Carousel() {
   const [slide, setSlide] = useState(0);
@@ -25,7 +25,7 @@ function Carousel() {
 
   return (
     <main>
-      <Selector slide={slide} nextSlide={nextSlide} previousSlide={previousSlide} />
+      <Selector slide={slide} nextSlide={nextSlide} previousSlide={previousSlide} setSlide={setSlide} />
       <Showcase slide={slide} />
       <Preview slide={slide} />
     </main>
