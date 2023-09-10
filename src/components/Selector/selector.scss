@@ -2,7 +2,7 @@
     height: 400px;
     width: 5%;
     opacity: 0;
-    animation: 0.6s forwards 1s opening ;
+    animation: 0.6s forwards 1.5s opening ;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -53,6 +53,7 @@ i{
     flex-direction: row;
     margin-right: 0;
     font-size: 15px;
+    animation: 0.6s forwards 2.5s opening ;
 
     &__dot{
         width: 100%;
