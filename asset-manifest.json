@@ -1,13 +1,18 @@
 {
   "files": {
-    "main.css": "/Portefolio/static/css/main.664d4d9b.css",
-    "main.js": "/Portefolio/static/js/main.9ccf5e8a.js",
+    "main.css": "/Portefolio/static/css/main.fbcf8321.css",
+    "main.js": "/Portefolio/static/js/main.bf720d1a.js",
+    "static/media/welcome.jpg": "/Portefolio/static/media/welcome.b80e317a841d9cb94ed7.jpg",
+    "static/media/77Events.png": "/Portefolio/static/media/77Events.6a7d4ab4135a244cebdb.png",
+    "static/media/Kasa.png": "/Portefolio/static/media/Kasa.461e721f5c2b2657c346.png",
+    "static/media/ArgentBank.png": "/Portefolio/static/media/ArgentBank.76f48a91540fb9f03087.png",
+    "static/media/Booki.png": "/Portefolio/static/media/Booki.58df5829e0e8f4d9e0c5.png",
     "index.html": "/Portefolio/index.html",
-    "main.664d4d9b.css.map": "/Portefolio/static/css/main.664d4d9b.css.map",
-    "main.9ccf5e8a.js.map": "/Portefolio/static/js/main.9ccf5e8a.js.map"
+    "main.fbcf8321.css.map": "/Portefolio/static/css/main.fbcf8321.css.map",
+    "main.bf720d1a.js.map": "/Portefolio/static/js/main.bf720d1a.js.map"
   },
   "entrypoints": [
-    "static/css/main.664d4d9b.css",
-    "static/js/main.9ccf5e8a.js"
+    "static/css/main.fbcf8321.css",
+    "static/js/main.bf720d1a.js"
   ]
 }
