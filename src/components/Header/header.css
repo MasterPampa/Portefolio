@@ -8,6 +8,12 @@ header {
   animation: 0.4s forwards 1.8s opening;
   margin-top: 50px;
 }
+header a {
+  line-height: 0.03125em;
+  vertical-align: -0.1875em;
+  height: 0;
+  width: 0;
+}
 header i {
   cursor: pointer;
   transition: all 0.2s ease-in-out;
@@ -17,7 +23,7 @@ header i:hover {
 }
 header .links {
   display: flex;
-  gap: 30px;
+  gap: 50px;
 }
 
 @keyframes opening {

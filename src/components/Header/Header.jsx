@@ -3,10 +3,10 @@ import './header.css'
 function Header () {
     return(
         <header>
-            <i className="fa-solid fa-house fa-2xl"></i>
+            <a href='/'><i className="fa-solid fa-house fa-2xl"></i></a>
             <div className='links'>
-                <i className="fa-brands fa-2xl fa-github"></i>
-                <i className="fa-solid fa-2xl fa-envelope"></i>
+                <a href='https://github.com/MasterPampa' target="_blank"><i className="fa-brands fa-2xl fa-github"></i></a>
+                <a target="_top" href="mailto:styvenmunhurrun@gmail.com"><i className="fa-solid fa-2xl fa-envelope"></i></a>
             </div>
         </header>
     )

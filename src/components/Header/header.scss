@@ -7,6 +7,12 @@ header{
     opacity: 0;
     animation: 0.4s forwards 1.8s opening ;
     margin-top: 50px;
+    a{
+        line-height: .03125em;
+        vertical-align: -.1875em;
+        height: 0;
+        width: 0;
+    }
     i{
         cursor: pointer;
         transition: all 0.2s ease-in-out;
@@ -17,7 +23,7 @@ header{
     }
     .links{
         display: flex;
-        gap: 30px;
+        gap: 50px;
     }
     
 }
