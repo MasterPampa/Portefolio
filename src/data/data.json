@@ -3,7 +3,8 @@
         {
             "id": 1,
             "title": "Welcome",
-            "description": "As a junior front-end developer, I am driven by the passion to craft captivating and intuitive web experiences. Recently graduated from OpenClassrooms Web Integrator program, I've built a strong foundation in HTML, CSS, and JavaScript and am eager to put my freshly acquired knowledge into practice. My portfolio reflects my journey, showcasing the projects I've worked on with dedication and creativity. Explore these accomplishments to discover how I can contribute to bringing your ideas to life through appealing web interfaces.",
+            "description": "As a junior front-end developer, I am driven by the passion to craft captivating and intuitive web experiences. Recently graduated from OpenClassrooms Web Integrator program, i am eager to put my freshly acquired knowledge into practice.",
+            "skills":"My portfolio reflects my journey, showcasing the projects I've worked on with dedication and creativity.",
             "img": "/welcome.jpg"
         },
         {
