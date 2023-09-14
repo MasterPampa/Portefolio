@@ -34,9 +34,8 @@ header .links {
     opacity: 1;
   }
 }
-@media (max-width: 375px) {
+@media (max-width: 980px) {
   header {
-    margin-top: 30px;
     margin-bottom: 10px;
   }
 }/*# sourceMappingURL=header.css.map */

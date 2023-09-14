@@ -9,25 +9,29 @@
         {
             "id": 2,
             "title": "Booki",
-            "description": "The company aims to develop a website that allows users to find accommodations and activities in the city of their choice. I was tasked with integrating the site's interface using HTML and CSS code. Evaluated Skills: Setting up a front-end development environment, Integrating content, Implementing a responsive interface.",
+            "description": "The company aims to develop a website that allows users to find accommodations and activities in the city of their choice. I was tasked with integrating the site's interface using HTML and CSS code. ",
+            "skills": "Setting up a front-end development environment, Integrating content, Implementing a responsive interface.",
             "img": "/images/Booki.png"
         },
         {
             "id": 3,
             "title": "Kasa",
-            "description": "Kasa hired me as a freelance front-end developer to develop its new web platform. I had to create a real estate rental web application with React. Implement CSS animations. Set up an application with Create React App. Configure navigation between application pages. Build a web interface using Sass.",
+            "description": "Kasa hired me as a freelance front-end developer to develop its new web platform. I had to create a real estate rental web application with React.",
+            "skills": "Implement CSS animations. Set up an application with Create React App. Configure navigation between application pages. Build a web interface using Sass.",
             "img": "/images/Kasa.png"
         },
         {
             "id": 4,
             "title": "Argent Bank",
-            "description": "I have integrated Argent Bank as a front-end developer. Argent Bank is a new online bank looking to make a mark in the banking sector. My goal was to display backend data on the interface through API calls. Configure API routes for client/server communication. Implement data management with Redux to ensure frontend functionality.",
+            "description": "I have integrated Argent Bank as a front-end developer. Argent Bank is a new online bank looking to make a mark in the banking sector.",
+            "skills": "Display backend data on the interface through API calls. Configure API routes for client/server communication. Implement data management with Redux to ensure frontend functionality.",
             "img": "/images/ArgentBank.png"
         },
         {
             "id": 5,
             "title": "77 Events",
-            "description": "As a freelance front-end developer, the event agency 724events has contacted me for a mission. The website is functional, but some bugs are hindering its proper use by visitors. The agency reached out to me to finalize the work. Debug the website using Chrome DevTools. Write a test plan to test the website.",
+            "description": "As a freelance front-end developer, the event agency 724events has contacted me for a mission. The website is functional, but some bugs are hindering its proper use by visitors. The agency reached out to me to finalize the work. ",
+            "skills": "Debug the website using Chrome DevTools. Write a test plan to test the website.",
             "img": "/images/77Events.png"
         }
     ]
