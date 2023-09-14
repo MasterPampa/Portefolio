@@ -2,7 +2,7 @@
   position: absolute;
   border-top: 4px solid;
   border-left: 4px solid;
-  border-color: #FF6A41;
+  border-color: #16A4FA;
   width: 1%;
   height: 10px;
   top: 50%;
@@ -17,7 +17,7 @@
   position: absolute;
   border-bottom: 4px solid;
   border-right: 4px solid;
-  border-color: #FF6A41;
+  border-color: #16A4FA;
   width: 1%;
   height: 10px;
   bottom: 50%;
@@ -45,7 +45,7 @@
     left: 10%;
     width: 30%;
     height: 350px;
-    border-color: #FF6A41;
+    border-color: #16A4FA;
   }
 }
 @keyframes openingBottom {
@@ -61,7 +61,7 @@
     right: 10%;
     width: 30%;
     height: 350px;
-    border-color: #FF6A41;
+    border-color: #16A4FA;
   }
 }
 h3 {
