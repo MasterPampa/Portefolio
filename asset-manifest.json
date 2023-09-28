@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/Portefolio/static/css/main.3b4c2f40.css",
-    "main.js": "/Portefolio/static/js/main.914a411b.js",
+    "main.css": "/Portefolio/static/css/main.3a258ec2.css",
+    "main.js": "/Portefolio/static/js/main.ad16695e.js",
     "static/media/welcome.jpg": "/Portefolio/static/media/welcome.b80e317a841d9cb94ed7.jpg",
     "static/media/77Events.png": "/Portefolio/static/media/77Events.6a7d4ab4135a244cebdb.png",
     "static/media/Kasa.png": "/Portefolio/static/media/Kasa.461e721f5c2b2657c346.png",
     "static/media/ArgentBank.png": "/Portefolio/static/media/ArgentBank.76f48a91540fb9f03087.png",
     "static/media/Booki.png": "/Portefolio/static/media/Booki.58df5829e0e8f4d9e0c5.png",
     "index.html": "/Portefolio/index.html",
-    "main.3b4c2f40.css.map": "/Portefolio/static/css/main.3b4c2f40.css.map",
-    "main.914a411b.js.map": "/Portefolio/static/js/main.914a411b.js.map"
+    "static/media/gb.svg": "/Portefolio/static/media/gb.516897fd3988e35032b772b026a19f75.svg",
+    "static/media/fr.svg": "/Portefolio/static/media/fr.78df1f5ffc0623dbfa992878e0be9aa3.svg",
+    "main.3a258ec2.css.map": "/Portefolio/static/css/main.3a258ec2.css.map",
+    "main.ad16695e.js.map": "/Portefolio/static/js/main.ad16695e.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b4c2f40.css",
-    "static/js/main.914a411b.js"
+    "static/css/main.3a258ec2.css",
+    "static/js/main.ad16695e.js"
   ]
 }
