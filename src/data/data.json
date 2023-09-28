@@ -2,37 +2,47 @@
     [
         {
             "id": 1,
-            "title": "Welcome",
-            "description": "As a junior front-end developer, I am driven by the passion to craft captivating and intuitive web experiences. Recently graduated from OpenClassrooms Web Integrator program, i am eager to put my freshly acquired knowledge into practice.",
-            "skills":"My portfolio reflects my journey, showcasing the projects I've worked on with dedication and creativity.",
+            "title": "Front-End Developper",
+            "description":"En tant que développeur junior, je suis animé par la passion de créer des expériences web captivantes et intuitives. Récemment diplômé de la formation Intégrateur Web d'OpenClassrooms, j'ai acquis une solide base de compétences en HTML, CSS et JavaScript, et je suis désireux de mettre en pratique mes connaissances fraîchement acquises.",
+            "descriptionEN": "As a junior developer, I am driven by the passion to craft captivating and intuitive web experiences. Recently graduated from OpenClassrooms Web Integrator program, i am eager to put my freshly acquired knowledge into practice.",
+            "skills":" Mon portfolio est le reflet de mon parcours, mettant en lumière les projets sur lesquels j'ai travaillé avec dévouement et créativité.",
+            "skillsEN":"My portfolio reflects my journey, showcasing the projects I've worked on with dedication and creativity.",
             "img": "/welcome.jpg"
         },
         {
             "id": 2,
             "title": "Booki",
-            "description": "The company aims to develop a website that allows users to find accommodations and activities in the city of their choice. I was tasked with integrating the site's interface using HTML and CSS code. ",
-            "skills": "Setting up a front-end development environment, Integrating content, Implementing a responsive interface.",
+            "description":"L’entreprise souhaite développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix.",
+            "descriptionEN": "The company aims to develop a website that allows users to find accommodations and activities in the city of their choice. I was tasked with integrating the site's interface using HTML and CSS code. ",
+            "skills":"Intégrer l'interface du site avec du code HTML et CSS, conformément à une maquette FIGMA",
+            "skillsEN": "Setting up a front-end development environment, Integrating content, Implementing a responsive interface.",
             "img": "/images/Booki.png"
         },
         {
             "id": 3,
             "title": "Kasa",
-            "description": "Kasa hired me as a freelance front-end developer to develop its new web platform. I had to create a real estate rental web application with React.",
-            "skills": "Implement CSS animations. Set up an application with Create React App. Configure navigation between application pages. Build a web interface using Sass.",
+            "description":"Kasa m'a recruté en tant que développeur front-end en freelance pour développer sa nouvelle plateforme web.",
+            "descriptionEN": "Kasa hired me as a freelance front-end developer to develop its new web platform. I had to create a real estate rental web application with React.",
+            "skills":"Création d'une applications React et React Router. Animations css modernes. Utilisation de Sass",
+            "skillsEN": "Implement CSS animations. Set up an application with Create React App. Configure navigation between application pages. Build a web interface using Sass.",
             "img": "/images/Kasa.png"
         },
         {
             "id": 4,
             "title": "Argent Bank",
-            "description": "I have integrated Argent Bank as a front-end developer. Argent Bank is a new online bank looking to make a mark in the banking sector.",
-            "skills": "Display backend data on the interface through API calls. Configure API routes for client/server communication. Implement data management with Redux to ensure frontend functionality.",
+            "description":"Implémentation du front-end d'une application web bancaire avec React.",
+            "descriptionEN": "I have integrated Argent Bank as a front-end developer. Argent Bank is a new online bank looking to make a mark in the banking sector.",
+            "skills":"Utilisation d'API pour afficher les données du serveur Back-end. Configuration des routes API client/serveur. Implémentation de la gestion des données avec Redux pour assurer un front-end fonctionnel et sécurisé.",
+            "skillsEN": "Display backend data on the interface through API calls. Configure API routes for client/server communication. Implement data management with Redux to ensure frontend functionality.",
             "img": "/images/ArgentBank.png"
         },
         {
             "id": 5,
             "title": "77 Events",
-            "description": "As a freelance front-end developer, the event agency 724events has contacted me for a mission. The website is functional, but some bugs are hindering its proper use by visitors. The agency reached out to me to finalize the work. ",
-            "skills": "Debug the website using Chrome DevTools. Write a test plan to test the website.",
+            "description":"J'ai intégré 724events pour les aider à corriger les bugs entravant la bonne navigation du site.",
+            "descriptionEN": "As a freelance front-end developer, the event agency 724events has contacted me for a mission. The website is functional, but some bugs are hindering its proper use by visitors. The agency reached out to me to finalize the work. ",
+            "skills":"Debug en utilisant Chrome DevTools. Optimisation du travail en utilisant des test unitaire et d'intégration.",
+            "skillsEN": "Debug the website using Chrome DevTools. Write a test plan to test the website.",
             "img": "/images/77Events.png"
         }
     ]

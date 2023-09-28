@@ -4,7 +4,7 @@ import Showcase from '../Showcase/Showcase';
 import Preview from '../Preview/Preview';
 import previewData from '../../data/data.json';
 
-function Carousel() {
+function Carousel({language}) {
   const [slide, setSlide] = useState(0);
 
   const nextSlide = () => {
@@ -26,7 +26,7 @@ function Carousel() {
   return (
     <main>
       <Selector slide={slide} nextSlide={nextSlide} previousSlide={previousSlide} setSlide={setSlide} />
-      <Showcase slide={slide} />
+      <Showcase slide={slide} language={language}/>
       <Preview slide={slide} />
     </main>
   );

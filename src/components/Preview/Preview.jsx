@@ -20,7 +20,7 @@ function Preview({ slide }) {
 
   return (
     <section className='preview'>
-      <img src={selectedImage} alt={data[slide].title} />
+      <img className='img' src={selectedImage} alt={data[slide].title} />
     </section>
   );
 }

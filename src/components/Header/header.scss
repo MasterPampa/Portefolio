@@ -24,6 +24,16 @@ header{
     .links{
         display: flex;
         gap: 50px;
+        align-items: center;
+        .lang{
+            .flags{
+                width: 32px;
+                cursor: pointer;
+            }
+            display: flex;
+            gap: 20px;
+            
+        }
     }
     
 }

@@ -19,12 +19,12 @@
     opacity: 1;
   }
 }
-img {
+.img {
   width: 100%;
   transition: all 0.2s ease-in-out;
 }
 
-img:hover {
+.img:hover {
   cursor: pointer;
   filter: brightness(120%);
 }
@@ -39,7 +39,7 @@ img:hover {
     animation: 0.6s forwards 2.2s opening;
     margin-bottom: 10px;
   }
-  img {
+  .img {
     position: absolute;
     left: 50%;
     min-width: 220px;

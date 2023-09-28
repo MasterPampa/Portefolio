@@ -24,6 +24,15 @@ header i:hover {
 header .links {
   display: flex;
   gap: 50px;
+  align-items: center;
+}
+header .links .lang {
+  display: flex;
+  gap: 20px;
+}
+header .links .lang .flags {
+  width: 32px;
+  cursor: pointer;
 }
 
 @keyframes opening {
