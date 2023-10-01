@@ -23,7 +23,7 @@ body{
     align-items: center;
     justify-content: space-evenly;
 }        
-main{
+main{    
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -44,5 +44,6 @@ main{
         flex-direction: column;
         justify-content: space-evenly;     
         height: 70vh; 
+        margin-top: -5%;
     }
 }

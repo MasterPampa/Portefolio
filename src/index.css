@@ -45,5 +45,6 @@ main {
     flex-direction: column;
     justify-content: space-evenly;
     height: 70vh;
+    margin-top: -5%;
   }
 }/*# sourceMappingURL=index.css.map */
