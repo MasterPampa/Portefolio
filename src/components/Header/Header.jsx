@@ -11,7 +11,7 @@ function Header({ changeLanguage, language }) {
     <header>
       <a href='/'><i className="fa-solid fa-house fa-2xl"></i></a>
       <div className='links'>
-        <a href='https://github.com/MasterPampa' target="_blank"><i className="fa-brands fa-2xl fa-github"></i></a>
+        <a href='https://github.com/MasterPampa/portefolio' target="_blank"><i className="fa-brands fa-2xl fa-github"></i></a>
         <a target="_top" href="mailto:styvenmunhurrun@gmail.com"><i className="fa-solid fa-2xl fa-envelope"></i></a>
         <div className='lang'>
           <img src={frFlag} className='flags' onClick={() => handleLanguageChange('fr')} alt='French'></img>
