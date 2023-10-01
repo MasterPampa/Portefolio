@@ -1,6 +1,7 @@
 import './preview.css';
 import data from '../../data/data.json'
 import React from 'react';
+import { useEffect, useState } from 'react';
 
 import image1 from '../../images/welcome.jpg'
 import image2 from '../../images/Booki.png'
@@ -36,23 +37,36 @@ const links = {
   4: ""
 }
 
-function Preview({ slide }) {
+function Preview({ slide, isFadingOut }) {
+
+  const [showcaseClass, setShowcaseClass] = useState('showcase');
+
+  useEffect(() => {
+    if (isFadingOut) {
+      setShowcaseClass('fade-in-out');
+    } else {
+      setShowcaseClass('');
+    }
+  }, [isFadingOut]);
+
   const selectedImage = images[slide];
   const selectedFigcaption = figcaption[slide];
   const selectedLink = links[slide];
 
   return (
     <section className='preview'>
-      {slide !== 0 ? (
-        <a href={selectedLink} target='_blank'>
-        <img className='img' src={selectedImage} alt={data[slide].title} />
-        </a>
-      ) : (
-        <img className='img' src={selectedImage} alt={data[slide].title} />
-      )}
-      <figcaption>
-        {selectedFigcaption}
-      </figcaption>
+      <span className={showcaseClass}>
+        {slide !== 0 ? (
+          <a href={selectedLink} target='_blank'>
+          <img className='img' src={selectedImage} alt={data[slide].title} />
+          </a>
+        ) : (
+          <img className='img' src={selectedImage} alt={data[slide].title} />
+        )}
+        <figcaption>
+          {selectedFigcaption}
+        </figcaption>
+      </span>
     </section>
   );
 }
