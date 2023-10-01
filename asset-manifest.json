@@ -1,20 +1,25 @@
 {
   "files": {
-    "main.css": "/Portefolio/static/css/main.3a258ec2.css",
-    "main.js": "/Portefolio/static/js/main.ad16695e.js",
+    "main.css": "/Portefolio/static/css/main.2f442a29.css",
+    "main.js": "/Portefolio/static/js/main.c880e690.js",
     "static/media/welcome.jpg": "/Portefolio/static/media/welcome.b80e317a841d9cb94ed7.jpg",
     "static/media/77Events.png": "/Portefolio/static/media/77Events.6a7d4ab4135a244cebdb.png",
     "static/media/Kasa.png": "/Portefolio/static/media/Kasa.461e721f5c2b2657c346.png",
     "static/media/ArgentBank.png": "/Portefolio/static/media/ArgentBank.76f48a91540fb9f03087.png",
     "static/media/Booki.png": "/Portefolio/static/media/Booki.58df5829e0e8f4d9e0c5.png",
+    "static/media/css.png": "/Portefolio/static/media/css.02d225c7df0b28341d8d.png",
+    "static/media/react.png": "/Portefolio/static/media/react.44319306359c7112276d.png",
+    "static/media/sass.png": "/Portefolio/static/media/sass.b1789f6448a5bae26264.png",
+    "static/media/js.png": "/Portefolio/static/media/js.3dfb665e058d08c99f28.png",
+    "static/media/redux.svg": "/Portefolio/static/media/redux.0e4fb1c819ac4c060c92343147d4ccf7.svg",
     "index.html": "/Portefolio/index.html",
     "static/media/gb.svg": "/Portefolio/static/media/gb.516897fd3988e35032b772b026a19f75.svg",
     "static/media/fr.svg": "/Portefolio/static/media/fr.78df1f5ffc0623dbfa992878e0be9aa3.svg",
-    "main.3a258ec2.css.map": "/Portefolio/static/css/main.3a258ec2.css.map",
-    "main.ad16695e.js.map": "/Portefolio/static/js/main.ad16695e.js.map"
+    "main.2f442a29.css.map": "/Portefolio/static/css/main.2f442a29.css.map",
+    "main.c880e690.js.map": "/Portefolio/static/js/main.c880e690.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a258ec2.css",
-    "static/js/main.ad16695e.js"
+    "static/css/main.2f442a29.css",
+    "static/js/main.c880e690.js"
   ]
 }
