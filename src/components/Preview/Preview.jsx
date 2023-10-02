@@ -48,7 +48,7 @@ function Preview({ slide, isFadingOut }) {
 
   useEffect(() => {
     if (isFadingOut) {
-      setShowcaseClass('fade-in-out');
+      setShowcaseClass('fade-in-out2');
     } else {
       setShowcaseClass('');
     }

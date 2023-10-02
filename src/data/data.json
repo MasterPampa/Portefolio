@@ -30,7 +30,7 @@
         {
             "id": 4,
             "title": "Nina Carducci",
-            "description":"Optimisation du référencement d'un site de photographe",
+            "description":"Optimisation du référencement d'un site de photographe.",
             "descriptionEN": "SEO optimization of a fotographer website.",
             "skills":"Optimisation globale du site tant sur les performance que sur le SEO. Utilisation de Schema.org. Optimisation de l'accessibilité du site et production d'un rapport d'optimisation.",
             "skillsEN": "Global optimization of the website, focusing on both performance and SEO. Implementation of Schema.org . Enhancement of website accessibility and generation of a complete optimization report.",
@@ -39,7 +39,7 @@
         {
             "id": 5,
             "title": "Oh my food",
-            "description":"Amélioration de l'interface d'un site mobile avec des animations CSS",
+            "description":"Amélioration de l'interface d'un site mobile avec des animations CSS.",
             "descriptionEN": "Improvement of the mobile website interface with CSS animations.",
             "skills":"Intégration d'une maquette en mobile-first, mettre en œuvre des animations CSS",
             "skillsEN": "Implementation of a mobile-first design mockup, incorporating CSS animations",
@@ -50,7 +50,7 @@
             "title": "Booki",
             "description":"L’entreprise souhaite développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix.",
             "descriptionEN": "The company aims to develop a website that allows users to find accommodations and activities in the city of their choice. I was tasked with integrating the site's interface using HTML and CSS code. ",
-            "skills":"Intégrer l'interface du site avec du code HTML et CSS, conformément à une maquette FIGMA",
+            "skills":"Intégrer l'interface du site avec du code HTML et CSS, conformément à une maquette FIGMA.",
             "skillsEN": "Setting up a front-end development environment, Integrating content, Implementing a responsive interface.",
             "img": "/images/Booki.png"
         }
