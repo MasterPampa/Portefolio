@@ -3,20 +3,20 @@
         {
             "id": 1,
             "title": "Front-End Developper",
-            "description":"Récemment diplômé de la formation Intégrateur Web d'OpenClassrooms, j'ai acquis une solide base de compétences en HTML, CSS et JavaScript, et je suis désireux de mettre en pratique mes connaissances fraîchement acquises.",
-            "descriptionEN": "Recently graduated from OpenClassrooms Web Integrator program, i am eager to put my freshly acquired knowledge into practice.",
+            "description":"Diplômé de la formation Intégrateur Web d'OpenClassrooms, j'ai acquis une solide base de compétences pour la création d'applications web interactives et dynamiques en utilisant React et JavaScript.",
+            "descriptionEN": "As a graduate of OpenClassrooms' Web Developer program, I have acquired a strong foundation of skills for creating interactive and dynamic web applications using React and JavaScript.",
             "skills":" Mon portfolio est le reflet de mon parcours, mettant en lumière les projets sur lesquels j'ai travaillé avec dévouement et créativité.",
             "skillsEN":"My portfolio reflects my journey, showcasing the projects I've worked on with dedication and creativity.",
             "img": "/welcome.jpg"
         },
         {
             "id": 2,
-            "title": "Booki",
-            "description":"L’entreprise souhaite développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix.",
-            "descriptionEN": "The company aims to develop a website that allows users to find accommodations and activities in the city of their choice. I was tasked with integrating the site's interface using HTML and CSS code. ",
-            "skills":"Intégrer l'interface du site avec du code HTML et CSS, conformément à une maquette FIGMA",
-            "skillsEN": "Setting up a front-end development environment, Integrating content, Implementing a responsive interface.",
-            "img": "/images/Booki.png"
+            "title": "Argent Bank",
+            "description":"Implémentation du front-end d'une application web bancaire avec React.",
+            "descriptionEN": "I have integrated Argent Bank as a front-end developer. Argent Bank is a new online bank looking to make a mark in the banking sector.",
+            "skills":"Utilisation d'API pour afficher les données du serveur Back-end. Configuration des routes API client/serveur. Implémentation de la gestion des données avec Redux pour assurer un front-end fonctionnel et sécurisé.",
+            "skillsEN": "Display backend data on the interface through API calls. Configure API routes for client/server communication. Implement data management with Redux to ensure frontend functionality.",
+            "img": "/images/ArgentBank.png"
         },
         {
             "id": 3,
@@ -29,20 +29,29 @@
         },
         {
             "id": 4,
-            "title": "Argent Bank",
-            "description":"Implémentation du front-end d'une application web bancaire avec React.",
-            "descriptionEN": "I have integrated Argent Bank as a front-end developer. Argent Bank is a new online bank looking to make a mark in the banking sector.",
-            "skills":"Utilisation d'API pour afficher les données du serveur Back-end. Configuration des routes API client/serveur. Implémentation de la gestion des données avec Redux pour assurer un front-end fonctionnel et sécurisé.",
-            "skillsEN": "Display backend data on the interface through API calls. Configure API routes for client/server communication. Implement data management with Redux to ensure frontend functionality.",
-            "img": "/images/ArgentBank.png"
+            "title": "Nina Carducci",
+            "description":"Optimisation du référencement d'un site de photographe",
+            "descriptionEN": "SEO optimization of a fotographer website.",
+            "skills":"Optimisation globale du site tant sur les performance que sur le SEO. Utilisation de Schema.org. Optimisation de l'accessibilité du site et production d'un rapport d'optimisation.",
+            "skillsEN": "Global optimization of the website, focusing on both performance and SEO. Implementation of Schema.org . Enhancement of website accessibility and generation of a complete optimization report.",
+            "img": "/images/NinaCarducci.webp"
         },
         {
             "id": 5,
-            "title": "77 Events",
-            "description":"J'ai intégré 724events pour les aider à corriger les bugs entravant la bonne navigation du site.",
-            "descriptionEN": "As a freelance front-end developer, the event agency 724events has contacted me for a mission. The website is functional, but some bugs are hindering its proper use by visitors. The agency reached out to me to finalize the work. ",
-            "skills":"Debug en utilisant Chrome DevTools. Optimisation du travail en utilisant des test unitaire et d'intégration.",
-            "skillsEN": "Debug the website using Chrome DevTools. Write a test plan to test the website.",
-            "img": "/images/77Events.png"
+            "title": "Oh my food",
+            "description":"Amélioration de l'interface d'un site mobile avec des animations CSS",
+            "descriptionEN": "Improvement of the mobile website interface with CSS animations.",
+            "skills":"Intégration d'une maquette en mobile-first, mettre en œuvre des animations CSS",
+            "skillsEN": "Implementation of a mobile-first design mockup, incorporating CSS animations",
+            "img": "/images/Ohmyfood.webp"
+        },
+        {
+            "id": 6,
+            "title": "Booki",
+            "description":"L’entreprise souhaite développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix.",
+            "descriptionEN": "The company aims to develop a website that allows users to find accommodations and activities in the city of their choice. I was tasked with integrating the site's interface using HTML and CSS code. ",
+            "skills":"Intégrer l'interface du site avec du code HTML et CSS, conformément à une maquette FIGMA",
+            "skillsEN": "Setting up a front-end development environment, Integrating content, Implementing a responsive interface.",
+            "img": "/images/Booki.png"
         }
     ]
