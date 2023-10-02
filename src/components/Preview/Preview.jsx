@@ -35,10 +35,11 @@ const figcaption = {
 }
 const links = {
   0: "",
-  1: "https://masterpampa.github.io/Projet3_OpenClassrooms/Booki/",
+  1: "https://github.com/MasterPampa/ArgentBank",
   2: "https://masterpampa.github.io/Kasa/",
-  3: "https://masterpampa.github.io/Ninacarducci",
-  4: "https://masterpampa.github.io/Ohmyfood"
+  3: "https://masterpampa.github.io/NinaCarducci",
+  4: "https://masterpampa.github.io/Ohmyfood",
+  5: "https://masterpampa.github.io/Projet3_OpenClassrooms/Booki/"
 }
 
 function Preview({ slide, isFadingOut }) {

@@ -43,14 +43,35 @@
         order: 1;
         width: 80%;
         animation: 0.6s forwards 2s opening ;
-
         h1{
-            font-size: 3.7vw;
+            font-size: 3.5vw;
             text-underline-offset: 5px;
 
         }
+        h2{
+            font-size: 3vw;
+        }
         p{
             font-size: 2.5vw;
+            margin-bottom: 10px;
+        }
+    }
+}
+@media(max-width:500px){
+    .showcase{
+        order: 1;
+        width: 80%;
+        animation: 0.6s forwards 2s opening ;
+        h1{
+            font-size: 4vw;
+            text-underline-offset: 5px;
+
+        }
+        h2{
+            font-size: 3.5vw;
+        }
+        p{
+            font-size: 3vw;
             margin-bottom: 10px;
         }
     }

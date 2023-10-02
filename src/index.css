@@ -34,7 +34,7 @@ main {
 
 @media (max-width: 980px) {
   .main_container {
-    height: 100vh;
+    height: 80vh;
     margin-top: 10vh;
     padding: 0;
     display: flex;
