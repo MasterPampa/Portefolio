@@ -7,6 +7,9 @@
 
 body {
   background-color: #1D1D20;
+  background-image: radial-gradient(circle, #2E2E33 1%, transparent 10%), radial-gradient(circle, #2E2E33 1%, transparent 10%);
+  background-size: 30px 30px;
+  background-position: 0 0, 0 0;
 }
 
 .container {
