@@ -10,7 +10,7 @@
             "img": "/welcome.jpg"
         },
         {
-            "id": 3,
+            "id": 2,
             "title": "Online food shop",
             "description":"Afin de perfectionner mes connaissances Javascript et React, j'ai réalisé une application de restauration en ligne, utilisant un maximum de fonctionalités pour developper mes compétences.",
             "descriptionEN": "To improve my JavaScript and React experience, I created an online food ordering application, utilizing a wide range of features to enhance my skills.",
@@ -19,7 +19,7 @@
             "img": "/images/Bigburger.webp"
         },
         {
-            "id": 2,
+            "id": 3,
             "title": "Argent Bank",
             "description":"Implémentation du front-end d'une application web bancaire avec React.",
             "descriptionEN": "I have integrated Argent Bank as a front-end developer. Argent Bank is a new online bank looking to make a mark in the banking sector.",
@@ -46,7 +46,7 @@
             "img": "/images/Ohmyfood.webp"
         },
         {
-            "id": 3,
+            "id": 6,
             "title": "Kasa",
             "description":"Kasa m'a recruté en tant que développeur front-end en freelance pour développer sa nouvelle plateforme web.",
             "descriptionEN": "Kasa hired me as a freelance front-end developer to develop its new web platform. I had to create a real estate rental web application with React.",
