@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Portefolio/static/css/main.23602296.css",
-    "main.js": "/Portefolio/static/js/main.9fab8af8.js",
+    "main.js": "/Portefolio/static/js/main.a815eb47.js",
     "static/media/Kasa.webp": "/Portefolio/static/media/Kasa.4aa5cbc8f7152f3ceab7.webp",
     "static/media/welcome.webp": "/Portefolio/static/media/welcome.6383247655273225ebac.webp",
     "static/media/NinaCarducci.webp": "/Portefolio/static/media/NinaCarducci.b399c890d99b30fae000.webp",
-    "static/media/Booki.webp": "/Portefolio/static/media/Booki.75be08fb3891617195f6.webp",
-    "static/media/Ohmyfood.webp": "/Portefolio/static/media/Ohmyfood.444b87ad6b15dff69b88.webp",
+    "static/media/Bigburger.webp": "/Portefolio/static/media/Bigburger.b559e075747f51be0083.webp",
     "static/media/ArgentBank.webp": "/Portefolio/static/media/ArgentBank.5eb350153563e24bd88a.webp",
+    "static/media/Ohmyfood.webp": "/Portefolio/static/media/Ohmyfood.27ff88049e0c599e9fd8.webp",
     "static/media/css.png": "/Portefolio/static/media/css.02d225c7df0b28341d8d.png",
     "static/media/react.png": "/Portefolio/static/media/react.44319306359c7112276d.png",
     "static/media/sass.png": "/Portefolio/static/media/sass.b1789f6448a5bae26264.png",
@@ -18,10 +18,10 @@
     "static/media/gb.svg": "/Portefolio/static/media/gb.516897fd3988e35032b772b026a19f75.svg",
     "static/media/fr.svg": "/Portefolio/static/media/fr.78df1f5ffc0623dbfa992878e0be9aa3.svg",
     "main.23602296.css.map": "/Portefolio/static/css/main.23602296.css.map",
-    "main.9fab8af8.js.map": "/Portefolio/static/js/main.9fab8af8.js.map"
+    "main.a815eb47.js.map": "/Portefolio/static/js/main.a815eb47.js.map"
   },
   "entrypoints": [
     "static/css/main.23602296.css",
-    "static/js/main.9fab8af8.js"
+    "static/js/main.a815eb47.js"
   ]
 }
