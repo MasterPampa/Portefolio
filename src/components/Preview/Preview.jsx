@@ -4,11 +4,11 @@ import React from 'react';
 import { useEffect, useState } from 'react';
 
 import image1 from '../../images/welcome.webp'
-import image2 from '../../images/ArgentBank.webp'
-import image3 from '../../images/Kasa.webp'
+import image2 from '../../images/Bigburger.webp'
+import image3 from '../../images/ArgentBank.webp'
 import image4 from '../../images/NinaCarducci.webp'
 import image5 from '../../images/Ohmyfood.webp'
-import image6 from '../../images/Booki.webp'
+import image6 from '../../images/Kasa.webp'
 
 import redux from '../../images/redux.svg'
 import html from '../../images/html.png'
@@ -27,19 +27,19 @@ const images = {
   5: image6,
 }
 const figcaption = {
-  1: <div><img src={react}></img><img src={redux}></img><img src={sass}></img></div>,
-  2: <div><img src={html}></img><img src={sass}></img><img src={js}></img></div>,
+  1: <div><img src={react}></img><img src={js}></img><img src={sass}></img></div>,
+  2: <div><img src={react}></img><img src={redux}></img><img src={sass}></img></div>,
   3: <div><img src={lighthouse}></img><img src={sass}></img><img src={html}></img></div>,
   4: <div><img src={html}></img><img src={css}></img></div>,
-  5: <div><img src={html}></img><img src={css}></img></div>,
+  5: <div><img src={html}></img><img src={sass}></img><img src={js}></img></div>,
 }
 const links = {
-  0: "",
-  1: "https://github.com/MasterPampa/ArgentBank",
-  2: "https://masterpampa.github.io/Kasa/",
+  0: "https://github.com/MasterPampa",
+  1: "https://masterpampa.github.io/Bigburger/",
+  2: "https://github.com/MasterPampa/ArgentBank",
   3: "https://masterpampa.github.io/NinaCarducci",
   4: "https://masterpampa.github.io/Ohmyfood",
-  5: "https://masterpampa.github.io/Projet3_OpenClassrooms/Booki/"
+  5: "https://masterpampa.github.io/Kasa/"
 }
 
 function Preview({ slide, isFadingOut }) {
@@ -61,13 +61,9 @@ function Preview({ slide, isFadingOut }) {
   return (
     <section className='preview'>
       <span className={showcaseClass}>
-        {slide !== 0 ? (
           <a href={selectedLink} target='_blank'>
-          <img className='img' src={selectedImage} alt={data[slide].title} />
+            <img className='img' src={selectedImage} alt={data[slide].title} />
           </a>
-        ) : (
-          <img className='img' src={selectedImage} alt={data[slide].title} />
-        )}
         <figcaption>
           {selectedFigcaption}
         </figcaption>
