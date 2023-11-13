@@ -3,7 +3,7 @@ import data from '../../data/data.json'
 import React from 'react';
 import { useEffect, useState } from 'react';
 
-import image1 from '../../images/welcome.webp'
+import image1 from '../../images/stack.png'
 import image2 from '../../images/Bigburger.webp'
 import image3 from '../../images/ArgentBank.webp'
 import image4 from '../../images/NinaCarducci.webp'
